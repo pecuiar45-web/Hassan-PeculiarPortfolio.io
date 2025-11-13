@@ -44,7 +44,7 @@ A concise résumé summarizing my:
 
 ## 📊 Featured Projects
 ###  `Amazon Sales Report.docx`
-<img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mypic.jpg](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/main/DASHBOARD%201%20AMAZON%202019.png)" alt="My Picture">
+https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/main/DASHBOARD%201%20AMAZON%202019.png
 
 An analytical report summarizing **Amazon’s 2019 sales performance**.  
 
