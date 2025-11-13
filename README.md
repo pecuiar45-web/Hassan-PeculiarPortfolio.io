@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio — Hassan Peculiar
+# 📊 Data Analytics Portfolio — Hassan Monijesu Peculiar
 
 Welcome to my **Data Analytics Portfolio**, showcasing my skills, projects, and professional experience in transforming raw data into actionable business insights.
 
