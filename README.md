@@ -44,7 +44,7 @@ A concise résumé summarizing my:
 
 ## 📊 Featured Projects
 ###  `Amazon Sales Report.docx`
-![AMAZON DASHBOARD](Hassan-PeculiarPortfolio.io/blob/main/DASHBOARD%201%20AMAZON%202019.png)
+![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7ac36d7b66ee5971e20efa44ab375a1da053513d/DASHBOARD%201%20AMAZON%202019.png)
 
 
 An analytical report summarizing **Amazon’s 2019 sales performance**.  
