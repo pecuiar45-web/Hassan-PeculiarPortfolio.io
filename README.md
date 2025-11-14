@@ -45,7 +45,7 @@ A concise résumé summarizing my:
 ## 📊 Featured Projects
 ###  `Amazon Sales Report.docx`
 <img src="Hassan-PeculiarPortfolio.io/blob/main/DASHBOARD%201%20AMAZON%202019.png" alt="My Picture">
-![AMAZON DASHBOARD](/images/DASHBOARD 1 AMAZON 2019.png)
+![AMAZON DASHBOARD](Hassan-PeculiarPortfolio.io/blob/main/DASHBOARD%201%20AMAZON%202019.png)
 
 
 An analytical report summarizing **Amazon’s 2019 sales performance**.  
