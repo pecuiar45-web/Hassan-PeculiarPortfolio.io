@@ -60,6 +60,8 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 - Continue marketing the MacBook Pro.  
 - Maintain AAA Batteries’ sales momentum.  
 - Reward high-performing locations to boost morale and retention.
+  [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/faf09e661777aa47fba1a4d3007c8a6bc37cf863/SALES%20DATA.twbx)
+  [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/faf09e661777aa47fba1a4d3007c8a6bc37cf863/Amazon%20Sales%20Report.pdf)
 
 ### 📊 Food & Beverage Sales Analysis | Power BI Project
 
