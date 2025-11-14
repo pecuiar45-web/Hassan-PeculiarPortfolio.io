@@ -79,10 +79,11 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 ---
 
 ### 📈 Customer Insights Dashboard | Tableau Project 
+![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/14.11.2025_10.28.35_REC.png)
 
 - Designed an **interactive Tableau dashboard** to monitor product performance, sales growth, and customer trends.  
 - Added **filters, parameters, and drill-down options** for dynamic data exploration.  
-- Helped visualize insights that support **data-driven decision-making** for business managers.
+- Helped visualize insights that support **data-driven decision-making** for business managers. [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/778a47659db8f4a24de85d05741d529e61da4c94/MY%20NEW%20HORIZON%20FINAL%20PROJECT.twbx)[🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/Amazon%20Sales%20Report.pdf)
 
 ---
 
