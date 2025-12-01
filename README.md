@@ -71,7 +71,7 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
  
  **Best-selling product::** AAA Batteries
  
- **Highest revenue product:**MacBook Pro ($8M)
+ **Highest revenue product:** MacBook Pro ($8M)
  
  **Strongest quarter::** Q4
  
@@ -97,6 +97,7 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 📈 Health Care Dashboard | Power BI Project
 
 Key Insights:
+
 .**Arthritis** is common in young adults but shows the highest number of abnormal test results.
 
 **Older adults** are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
