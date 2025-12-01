@@ -107,13 +107,13 @@ Key Insights:
 
 ### 📈 Sales Dashboard | Python Project
 ![Sales Dashboard](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/b7feb20015c9a8da5285afba075e92f29462e151/dashboard.png)
- **Total revenue:**: $91.1M
- **Avg sale:**: $303k
- **Top seller:**: Bags (206 units)
- **Most profitable:**: Laptops
- **Fashion sells most units but lowest revenue
- **Electronics:** = highest revenue
- **Accessories:** performing strongly
+ -**Total revenue:**: $91.1M
+ -**Avg sale:**: $303k
+ -**Top seller:**: Bags (206 units)
+ -**Most profitable:**: Laptops
+ -**Fashion sells** most units but lowest revenue
+ -**Electronics:** = highest revenue
+ -**Accessories:** performing strongly
 [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/b7feb20015c9a8da5285afba075e92f29462e151/Sales%20Report.pdf)
 ## 🎓 Certifications & Training
 
