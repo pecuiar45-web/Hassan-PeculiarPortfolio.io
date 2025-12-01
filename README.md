@@ -62,6 +62,18 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 - Reward high-performing locations to boost morale and retention.
   [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/faf09e661777aa47fba1a4d3007c8a6bc37cf863/SALES%20DATA.twbx)
   [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/faf09e661777aa47fba1a4d3007c8a6bc37cf863/Amazon%20Sales%20Report.pdf)
+  
+### 🗃️ Amazon Sales Analysis | Excel Project
+![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/2549bb79fc44924eb3f402ab315629b486865626/20.10.2025_20.25.27_REC.png)
+Total revenue: $34.4M
+Total sales: 208.8K
+Best-selling product: AAA Batteries
+Highest revenue product: MacBook Pro ($8M)
+Strongest quarter: Q4
+Best month: December ($4.6M, 28k sales)
+Top location: Seattle House 391
+ [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/5d6d739640ec5479ad831fda06c941854788c599/SALES%20DATA.xlsx)
+  [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/2549bb79fc44924eb3f402ab315629b486865626/Amazon%20Sales%20Report.pdf)
 
 ### 📊 Food & Beverage Sales Analysis | Power BI Project
 
