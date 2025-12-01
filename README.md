@@ -69,14 +69,20 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 - Built **interactive dashboards** in Excel, Tableau, and Power BI to visualize KPIs by category, region, and time period.  
 - Highlighted insights that could help businesses **optimize inventory and marketing strategies**.
 
-
-
 ### 🗃️ Salary Database Analysis | SQL Project
 - Queried a **multi-table database** to uncover pay disparities and compensation trends across roles and departments.  
 - Used **JOIN**, **GROUP BY**, and **WHERE** clauses to aggregate and filter data efficiently.  
 - Delivered **clear summaries of salary structures** by department, job role, and location.
 
----
+### 📈 Health Care Dashboard | Power BI Project
+![HEALTHCARE DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/3bae2d057f023afe1c82ba1cdc6f124c5eddbf8a/28.11.2025_17.28.38_REC.png)
+Key Insights
+- Arthritis is common in young adults but shows the highest number of abnormal test results.
+-Older adults are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
+-Elective admissions dominate, indicating planned treatments over emergency visits.
+-Insurance coverage is heavily skewed toward Cigna, which also pays the largest portion of bills
+ [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Healthcare%20data.pbix.)
+ [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Saint%20Mary%20Hospital%20Data%20Insights.pdf)
 
 ### 📈 Customer Insights Dashboard | Tableau Project 
 ![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/14.11.2025_10.28.35_REC.png)
@@ -85,8 +91,16 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 - Added **filters, parameters, and drill-down options** for dynamic data exploration.  
 - Helped visualize insights that support **data-driven decision-making** for business managers. [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/778a47659db8f4a24de85d05741d529e61da4c94/MY%20NEW%20HORIZON%20FINAL%20PROJECT.twbx)[🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/Amazon%20Sales%20Report.pdf)
 
----
-
+### 📈 Sales Dashboard | Python Project
+![Sales Dashboard](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/b7feb20015c9a8da5285afba075e92f29462e151/dashboard.png)
+Total revenue: $91.1M
+Avg sale: $303k
+Top seller: Bags (206 units)
+Most profitable: Laptops
+Fashion sells most units but lowest revenue
+Electronics = highest revenue
+Accessories performing strongly
+[🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/b7feb20015c9a8da5285afba075e92f29462e151/Sales%20Report.pdf)
 ## 🎓 Certifications & Training
 
 - **Deloitte Job Simulation – Data Analytics & Forensic Technology**  
