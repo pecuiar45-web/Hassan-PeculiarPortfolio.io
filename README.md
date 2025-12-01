@@ -66,11 +66,17 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 ### 🗃️ Amazon Sales Analysis | Excel Project
 ![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/2549bb79fc44924eb3f402ab315629b486865626/20.10.2025_20.25.27_REC.png)
  **Total revenue::** $34.4M
+ 
  **Total sales::** 208.8K
+ 
  **Best-selling product::** AAA Batteries
- **Highest revenue product: :**MacBook Pro ($8M)
+ 
+ **Highest revenue product:**MacBook Pro ($8M)
+ 
  **Strongest quarter::** Q4
+ 
  **Best month::** December ($4.6M, 28k sales)
+ 
  **Top location::** Seattle House 391
  [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/5d6d739640ec5479ad831fda06c941854788c599/SALES%20DATA.xlsx)
   [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/2549bb79fc44924eb3f402ab315629b486865626/Amazon%20Sales%20Report.pdf)
@@ -91,13 +97,13 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 📈 Health Care Dashboard | Power BI Project
 
 Key Insights:
-.Arthritis is common in young adults but shows the highest number of abnormal test results.
+.**Arthritis** is common in young adults but shows the highest number of abnormal test results.
 
-.Older adults are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
+**Older adults** are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
 
-.Elective admissions dominate, indicating planned treatments over emergency visits.
+**Elective admissions** dominate, indicating planned treatments over emergency visits.
 
-.Insurance coverage is heavily skewed toward Cigna, which also pays the largest portion of bills.
+**Insurance coverage** is heavily skewed toward Cigna, which also pays the largest portion of bills.
  [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Healthcare%20data.pbix.)
  [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Saint%20Mary%20Hospital%20Data%20Insights.pdf)
 
