@@ -65,13 +65,13 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
   
 ### 🗃️ Amazon Sales Analysis | Excel Project
 ![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/2549bb79fc44924eb3f402ab315629b486865626/20.10.2025_20.25.27_REC.png)
-Total revenue: $34.4M
-Total sales: 208.8K
-Best-selling product: AAA Batteries
-Highest revenue product: MacBook Pro ($8M)
-Strongest quarter: Q4
-Best month: December ($4.6M, 28k sales)
-Top location: Seattle House 391
+ **Total revenue: $34.4M
+ **Total sales: 208.8K
+ **Best-selling product: AAA Batteries
+ **Highest revenue product: MacBook Pro ($8M)
+ **Strongest quarter: Q4
+ **Best month: December ($4.6M, 28k sales)
+ **Top location: Seattle House 391
  [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/5d6d739640ec5479ad831fda06c941854788c599/SALES%20DATA.xlsx)
   [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/2549bb79fc44924eb3f402ab315629b486865626/Amazon%20Sales%20Report.pdf)
 
@@ -89,29 +89,29 @@ Top location: Seattle House 391
 ### 📈 Health Care Dashboard | Power BI Project
 ![HEALTHCARE DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/3bae2d057f023afe1c82ba1cdc6f124c5eddbf8a/28.11.2025_17.28.38_REC.png)
 Key Insights
-- Arthritis is common in young adults but shows the highest number of abnormal test results.
--Older adults are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
--Elective admissions dominate, indicating planned treatments over emergency visits.
--Insurance coverage is heavily skewed toward Cigna, which also pays the largest portion of bills
+ ** Arthritis is common in young adults but shows the highest number of abnormal test results.
+ **Older adults are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
+ **Elective admissions dominate, indicating planned treatments over emergency visits.
+ **Insurance coverage is heavily skewed toward Cigna, which also pays the largest portion of bills
  [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Healthcare%20data.pbix.)
  [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Saint%20Mary%20Hospital%20Data%20Insights.pdf)
 
 ### 📈 Customer Insights Dashboard | Tableau Project 
 ![AMAZON DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/14.11.2025_10.28.35_REC.png)
 
-- Designed an **interactive Tableau dashboard** to monitor product performance, sales growth, and customer trends.  
-- Added **filters, parameters, and drill-down options** for dynamic data exploration.  
-- Helped visualize insights that support **data-driven decision-making** for business managers. [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/778a47659db8f4a24de85d05741d529e61da4c94/MY%20NEW%20HORIZON%20FINAL%20PROJECT.twbx)[🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/Amazon%20Sales%20Report.pdf)
+-  **Designed an **interactive Tableau dashboard** to monitor product performance, sales growth, and customer trends.  
+- ** Added **filters, parameters, and drill-down options** for dynamic data exploration.  
+-  **Helped visualize insights that support **data-driven decision-making** for business managers. [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/778a47659db8f4a24de85d05741d529e61da4c94/MY%20NEW%20HORIZON%20FINAL%20PROJECT.twbx)[🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/7646a76b1a60615483a87d68df21d263e18ab8a2/Amazon%20Sales%20Report.pdf)
 
 ### 📈 Sales Dashboard | Python Project
 ![Sales Dashboard](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/b7feb20015c9a8da5285afba075e92f29462e151/dashboard.png)
-Total revenue: $91.1M
-Avg sale: $303k
-Top seller: Bags (206 units)
-Most profitable: Laptops
-Fashion sells most units but lowest revenue
-Electronics = highest revenue
-Accessories performing strongly
+ **Total revenue: $91.1M
+ **Avg sale: $303k
+ **Top seller: Bags (206 units)
+ **Most profitable: Laptops
+ **Fashion sells most units but lowest revenue
+ **Electronics = highest revenue
+ **Accessories performing strongly
 [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/b7feb20015c9a8da5285afba075e92f29462e151/Sales%20Report.pdf)
 ## 🎓 Certifications & Training
 
