@@ -88,11 +88,21 @@ An analytical report summarizing **Amazon’s 2019 sales performance**.
 
 ### 📈 Health Care Dashboard | Power BI Project
 ![HEALTHCARE DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/3bae2d057f023afe1c82ba1cdc6f124c5eddbf8a/28.11.2025_17.28.38_REC.png)
-Key Insights
- ** :**Arthritis is common in young adults but shows the highest number of abnormal test results.
- **:**Older adults are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
- **Elective admissions :**dominate, indicating planned treatments over emergency visits.
- *:***Insurance coverage is heavily skewed toward Cigna, which also pays the largest portion of bills
+📈 Health Care Dashboard | Power BI Project
+
+Key Insights:
+
+Arthritis is common in young adults but shows the highest number of abnormal test results.
+
+Older adults are the majority of patients, with chronic conditions like asthma, diabetes, and cancer being prevalent.
+
+Elective admissions dominate, indicating planned treatments over emergency visits.
+
+Insurance coverage is heavily skewed toward Cigna, which also pays the largest portion of bills.
+
+🔗 View Project
+
+🔗 View Project Report
  [🔗 View Project](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Healthcare%20data.pbix.)
  [🔗 View Project report](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/d471ffbb35c945b94bd63ddce82443565185766d/Saint%20Mary%20Hospital%20Data%20Insights.pdf)
 
